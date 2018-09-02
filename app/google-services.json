@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493377479906",
+    "firebase_url": "https://musicplayer-18495.firebaseio.com",
+    "project_id": "musicplayer-18495",
+    "storage_bucket": "musicplayer-18495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493377479906:android:bd0cbbc848bb6761",
+        "android_client_info": {
+          "package_name": "pns.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493377479906-eijq8pq0okge1smp1mmogar2sqe20gh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pns.musicplayer",
+            "certificate_hash": "0133e07e10a184b6a654d67cd655f44cb262158d"
+          }
+        },
+        {
+          "client_id": "493377479906-jc40ki0hhg64td8aqach9voar0k494k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh59Ozh5SR4CgIXblH0PweVS7gy90hU3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493377479906-jc40ki0hhg64td8aqach9voar0k494k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
